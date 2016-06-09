@@ -2,6 +2,6 @@
 
 <?php
 for($i=0;$i<=15;$i++){
-  ecoh $i.'<br/>';
+  echo $i.'<br/>';
 }
 ?>
